@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋, I'm Vijayalakshmi Rajaram!
 
-<!--
-**rajaramviji1998/rajaramviji1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 .NET Developer | Passionate about building scalable and efficient applications  
+🌱 Currently learning: Advanced .NET Core & Cloud Technologies  
+🔭 Working on: High-performance applications  
+📫 Contact me: rajaramviji1998@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack:
+- 💻 C#, .NET Core, ASP.NET  
+- 📊 SQL Server, MongoDB  
+- 🌐 JavaScript, jQuery
+🚀 **Let's connect and collaborate!**
